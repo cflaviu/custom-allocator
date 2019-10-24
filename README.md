@@ -1,2 +1,2 @@
 # custom_allocator
-Custom C++ allocator
+Custom C++17 allocator
